@@ -13,7 +13,8 @@ int main(void)
 		printf("this is a error \n");
 
 	}
-	int c=b*b-4*a*c;
+	int d=1000;
+	int c=b*b-100*a*c;
 	if(c<0)
 	{
 		printf("this is uncheckable\n");
