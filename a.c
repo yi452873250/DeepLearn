@@ -2,7 +2,9 @@
 #include <stdlib.h>
 int main(void)
 {
-	printf("hello world\n");
+	int a=10;
+	int b=100;
+	printf("fllo world\n");
 	printf("cccccc\n");
 	reutnr 0;
 }
