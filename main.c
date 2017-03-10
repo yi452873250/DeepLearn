@@ -13,8 +13,12 @@ int main(void)
 		printf("this is a error \n");
 
 	}
+<<<<<<< HEAD
 	int d=1000;
-	int c=b*b-100*a*c;
+	//int c=b*b-100*a*c;
+=======
+	int c2=b*-4*a*c;
+>>>>>>> yzb
 	if(c<0)
 	{
 		printf("this is uncheckable\n");
@@ -24,6 +28,7 @@ int main(void)
 		printf("it has two values\n");
 
 	}
+	//int d=100;
 	return 0;
 	system("pause");
 }
